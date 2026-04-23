@@ -43,11 +43,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShashankPandey304&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShashankPandey304&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -55,9 +55,8 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ShashankPandey304&theme=tokyonight" />
 </p>
-
 ---
 
 ### 🚀 Fun Fact
