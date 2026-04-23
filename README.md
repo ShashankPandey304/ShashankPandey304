@@ -1,42 +1,41 @@
 <h1 align="center">Hi 👋, I'm Shashank Pandey</h1>
-<h3 align="center">🚀 BTech CSE Student | 💻 Developer | 🌱 Tech Enthusiast</h3>
+<h3 align="center">Full Stack Developer (MERN) | B.Tech CSE Student</h3>
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/animations/coding.gif"/>
-
-### 👨‍💻 About Me
-- 🎓 BTech CSE student at **LPU**
-- 💡 Interested in **Web Development & Problem Solving**
-- 🌱 Currently learning **Full Stack Development **
-- ⚡ Love building real-world projects
-
----
-
-### 📫 Contact Me
-- 📧 Email: **shashankpandeyst1@gmail.com**
+## 🚀 About Me
+- 🎓 B.Tech CSE (2028 Batch)
+- 💻 Focused on Full Stack Development (MERN)
+- ⚡ Building scalable and real-world web applications
+- 🌱 Currently learning Backend Architecture & System Design
+- 🎯 Goal: Become an industry-ready Full Stack Developer
 
 ---
 
-### 🌐 Connect with me
-<p align="left">
+## 🛠️ Tech Stack
 
-<a href="www.linkedin.com/in/shashank-pandey-965502236" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
-</a>
+### 💻 Languages
+`JavaScript` `Java` `C++` `C` `Python`
 
-<a href="https://leetcode.com/u/Shashankpandeyst-/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
-</a>
+### 🌐 Frontend
+`HTML` `CSS` `JavaScript` `React.js`
 
-</p>
+### ⚙️ Backend & Database
+`Node.js` `Express.js` `MongoDB`
+
+### 🧰 Tools
+`Git` `GitHub` `VS Code`
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,express,mongodb,mysql,postgresql" />
-</p>
+## 🚀 Projects
+
+### 🧠 AI Assignment Generator
+- Generates assignments with AI-based evaluation system
+- Focused on improving productivity for students and tutors
+- Built using modern web technologies
+
+👉 *(More advanced projects coming soon...)*
 
 ---
 
@@ -58,8 +57,9 @@
   <img src="https://streak-stats.demolab.com?user=ShashankPandey304&theme=tokyonight" />
 </p>
 
-
 ---
 
-### 🚀 Fun Fact
-> 💡 "Consistency beats talent when talent doesn’t work hard."
+## 🔗 Connect with Me
+- 💼 LinkedIn: www.linkedin.com/in/shashank-pandey-965502236
+- 🧑‍💻 GitHub: https://github.com/ShashankPandey304
+- 🧠 LeetCode: https://leetcode.com/u/Shashankpandeyst-/
