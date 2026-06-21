@@ -2,7 +2,11 @@
 <h3 align="center">Full Stack Developer (MERN) | Java Developer | B.Tech CSE Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Enthusiast;Data+Structures+and+Algorithms;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShashankPandey304&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -13,7 +17,7 @@
 * 💻 Focused on Full Stack Development (MERN)
 * ☕ Strong foundation in Java and Data Structures
 * 🌱 Currently learning Backend Development and System Design
-* 🎯 Goal: Become an industry-ready Software Engineer
+* 🎯 Goal: Become an Industry-Ready Software Engineer
 * ⚡ Love building real-world projects and solving problems
 
 ---
@@ -22,48 +26,31 @@
 
 ## 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,cpp,c,python" />
-</p>
+`Java` `JavaScript` `C++` `C` `Python`
 
 ## 🌐 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+`HTML` `CSS` `JavaScript` `React.js`
 
 ## ⚙️ Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+`Node.js` `Express.js` `MongoDB`
 
 ## 🧰 Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+`Git` `GitHub` `VS Code`
 
 ---
 
 # 🚀 Projects
 
-## 👟 ShoeSphere
-
-* E-commerce website for shoe shopping
-* Responsive UI with multiple pages
-* Built using HTML, CSS and JavaScript
-
-## 🍲 Food Shortage Management System
-
-* Helps connect donors with needy communities
-* Provides awareness and information regarding food shortage
-* Community-oriented web application
-
 ## 🧠 AI Assignment Generator
 
 * Generates assignments automatically
 * Designed to improve productivity for students and tutors
+* Built using modern web technologies
+
+⭐ More exciting projects coming soon...
 
 ---
 
@@ -103,20 +90,21 @@
 
 ---
 
+# 🧠 Coding Profiles
+
+* 💻 LeetCode: https://leetcode.com/u/Shashankpandeyst-/
+* 🧑‍💻 GitHub: https://github.com/ShashankPandey304
+
+---
+
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/shashank-pandey-965502236" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="https://github.com/ShashankPandey304" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-</p>
+* 💼 LinkedIn: https://www.linkedin.com/in/shashank-pandey-965502236
+* 🧑‍💻 GitHub: https://github.com/ShashankPandey304
+* 💻 LeetCode: https://leetcode.com/u/Shashankpandeyst-/
 
 ---
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/ShashankPandey304">ShashankPandey304</a></i>
+<i>⭐ From <a href="https://github.com/ShashankPandey304">ShashankPandey304</a></i>
 </p>
