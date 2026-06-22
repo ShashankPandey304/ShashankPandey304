@@ -74,22 +74,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShashankPandey304&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashankPandey304&theme=tokyo-night" />
-</p>
-
----
-
 # 🧠 Coding Profiles
 
 * 💻 LeetCode: https://leetcode.com/u/Shashankpandeyst-/
